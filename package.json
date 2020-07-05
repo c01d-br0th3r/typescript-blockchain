@@ -8,5 +8,9 @@
   "scripts": {
     "start": "node index.js",
     "prestart": "tsc"
+  },
+  "dependencies": {
+    "crpyto-js": "^0.0.1-security",
+    "crypto-js": "^4.0.0"
   }
 }
